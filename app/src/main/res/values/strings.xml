@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">kalkulator</string>
+    <string name="kalkulator_text">Aplikasi Kalkulator ini dibuat untuk menghitung dari perhitungan sederhana seperti penjumlahan, pengurangan, perkalian dan pembagian.</string>
+    <string name="enterNumber1">Enter Number 1</string>
+    <string name="enterNumber2">Enter Number 2</string>
+    <string name="tambah">+</string>
+    <string name="kurang">-</string>
+    <string name="kali">*</string>
+    <string name="bagi">/</string>
 </resources>
